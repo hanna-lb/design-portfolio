@@ -24,12 +24,11 @@ body {
     max-width: 1200px;
     flex-direction: column;
     margin: auto;
-    background-color: pink;
 }
 
 .main {
     flex: 1 0 auto;
-    padding: 0 2em;
+    padding: 1em 2em 0 2em;
 }
 
 .header, .footer {
@@ -52,7 +51,11 @@ body {
 /* Title */
 
 .title, .logo {
-    padding: 3em 3em 3em 0;
+    padding: 3em 3em 2em 0;
+}
+
+.title h1 {
+    padding-top: 1em;
 }
 
 @media (max-width: 767px) {
@@ -64,6 +67,9 @@ body {
     }
     .logo {
         max-width: 30%;
+    }
+    .title h1 {
+        padding-top: 0.5em;
     }
 }
 
@@ -81,6 +87,8 @@ body {
     display: flex;
     justify-content: space-between;
     border-top: 1px solid #222;
+    background-color: pink;
+    padding: 1em;
 }
 
 .footer a {

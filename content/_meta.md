@@ -1,8 +1,8 @@
 ---
 Logo: image/logo.png
-Tagline: My portfolio.
+Tagline: Mitt portfolio.
 Social:
-    - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
+    - title: Länk till sidans github repo.
+      url: https://github.com/hanna-lb/design-portfolio
       icon: github
 ---
