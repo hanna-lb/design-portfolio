@@ -6744,7 +6744,7 @@ img {
   padding-left: 0;
 }
 .tech-article .sidebar ul li {
-  margin: 10px 0px;
+  margin: 10px 0;
   display: block;
 }
 .tech-article .sidebar ul li a:hover {
@@ -6752,7 +6752,7 @@ img {
 }
 .tech-article .article {
   width: 100%;
-  padding-left: 0px;
+  padding-left: 0;
 }
 
 @media (max-width: 900px) {
