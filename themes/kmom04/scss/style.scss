@@ -84,7 +84,7 @@ body {
     }
 
     * {
-        color: #111;
+        color: $font-alternative-color;
     }
 
     p {
@@ -116,18 +116,18 @@ body {
 .footer {
     display: flex;
     justify-content: space-between;
-    border-top: 3px solid #222;
-    background-color: $background-alternative-color;
+    border-top: 3px solid $font-alternative-color;
+    background-color: $accent-color;
     padding: 1em;
 
     a {
-        color: #222;
+        color: $font-color;
         text-decoration: none;
     }
 
     a:hover,
     a:hover i {
-        color: $background-color;
+        color: $background-alternative-color;
     }
 
     .social {
@@ -140,7 +140,7 @@ body {
 body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.5rem;
-    color: #444;
+    color: $font-color;
 }
 
 p,

@@ -6460,6 +6460,7 @@ blockquote {
 }
 
 code {
+  color: #444;
   margin: 0 0.1em;
   padding: 0.1em 0.2em;
   border: 1px solid #ccc;
@@ -6502,14 +6503,14 @@ pre code {
   padding: 0 1em;
 }
 .nav a {
-  color: #333;
+  color: #444;
 }
 .nav a:hover {
   color: #f0abc5;
 }
 
 .nav-toggle {
-  color: #333;
+  color: #444;
   display: none;
 }
 
@@ -6609,7 +6610,7 @@ body {
   padding-top: 1em;
 }
 .title * {
-  color: #111;
+  color: #222;
 }
 .title p {
   font-style: italic;
@@ -6642,7 +6643,7 @@ body {
   padding: 1em;
 }
 .footer a {
-  color: #222;
+  color: #444;
   text-decoration: none;
 }
 .footer a:hover,

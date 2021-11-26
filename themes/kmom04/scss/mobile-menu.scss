@@ -16,16 +16,16 @@
     }
     
     a {
-        color: #333;
+        color: $font-color;
     }
 
     a:hover {
-        color: $background-alternative-color;
+        color: $accent-color;
     }
 }
 
 .nav-toggle {
-    color: #333;
+    color: $font-color;
     display: none;
 }
 
