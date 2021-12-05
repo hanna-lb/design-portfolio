@@ -5,7 +5,7 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import '../../shared/fontawesome/scss/regular';
 
 @import '../../node_modules/normalize.css/normalize';
-@import 'variables-dark';
+@import 'variables';
 
 @import url('https://fonts.googleapis.com/css2?family=Dosis&family=Open+Sans&display=swap');
 
@@ -116,18 +116,18 @@ body {
 .footer {
     display: flex;
     justify-content: space-between;
-    border-top: 3px solid $accent-color;
-    background-color: $background-alternative-color;
+    border-top: 3px solid $font-alternative-color;
+    background-color: $accent-color;
     padding: 1em;
 
     a {
-        color: $font-alternative-color;
+        color: $font-color;
         text-decoration: none;
     }
 
     a:hover,
     a:hover i {
-        color: $accent-color;
+        color: $background-alternative-color;
     }
 
     .social {
@@ -170,7 +170,7 @@ h6 {
 
 img {
     max-width: 100%;
-    filter: saturate(105%) contrast(110%) brightness(0.9);
 }
 
-@import 'technologies-dark';
+@import 'technologies';
+@import 'gallery';

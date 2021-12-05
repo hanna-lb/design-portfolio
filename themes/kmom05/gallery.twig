@@ -1,0 +1,27 @@
+{% include 'incl/header.twig' %}
+
+<body>
+    {% include 'incl/nav.twig' %}
+    
+    <div class="main" role="main">
+        <h1>Bildgalleri</h1>
+        <p>Här är ett bildgalleri över mina två katter Ashen och Cinder. Längst ned finner vi även en musikvideo till en av mina favoritlåtar.</p>
+        <div class="gallery-container">
+            {% for image in meta.images %}
+                <div>
+                    <a href="{{ base_url }}/image/{{ image.url }}" target="_blank">
+                        <picture>
+                            <source media="(min-width: 901px)" srcset="{{ base_url }}/image/{{ image.url }}?w=370&h=370&crop-to-fit">
+                            <source media="(min-width: 768px)" srcset="{{ base_url }}/image/{{ image.url }}?w=450&h=450&crop-to-fit">
+                            <img src="{{ base_url }}/image/{{ image.url }}?w=760" alt="{{ image.alt }}">                            
+                        </picture>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+    
+    {% include 'incl/footer.twig' %}
+</body>
+
+</html>

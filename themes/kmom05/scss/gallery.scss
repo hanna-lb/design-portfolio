@@ -1,0 +1,29 @@
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2em 2em;
+    margin-bottom: 1em;
+
+    a {
+        text-decoration: none;
+    }
+
+    a:hover img {
+        opacity: 80%;
+        transition: all .2s ease-in-out;
+    }
+}
+
+@media (max-width: 900px) {
+    .gallery-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5em 1.5em;
+    }
+}
+
+@media (max-width: 767px) {
+    .gallery-container {
+        grid-template-columns: 1fr;
+        gap: 1em 1em;
+    }
+}
