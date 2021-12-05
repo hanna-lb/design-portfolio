@@ -17,16 +17,12 @@ Urvalet av e-handelssidor gjordes genom att söka på "nätbutiker gaming" på G
 Metod
 -----------------------
 
-Berätta kort om din "metod", hur du gör för att utföra undersökningen. Berätta om du använder något speciellt verktyg.
-
 För att hämta ut färgerna från webbplatserna genom att använda färgpipeppverktyget ColorZilla i FireFox. Endast förstasidan analyseras för att begränsa omfattningen av inhämtning av färger och analysen. Färgerna presenteras i resultatdelen av rapporten och analyseras med hjälp av ett färghjul från Adobe för att idenfifiera vilken typ av färgschema som använts. Vi exkluderar att ta med vita/gråa/svarta färger för bakgrunder och text. Typsnitt presenteras också i resultatet.
 
 I analys-delen analyseras webbsidorna och även det intryck som jag anser att de inger baserat på deras färgval.
 
 Resultat
 -----------------------
-
-Dokumentera dina resultat från din studie. Berätta vad du kom fram till, vilka resultat du hittade och observerade.
 
 ### MaxGaming
 
@@ -91,7 +87,7 @@ __Typsnitt__
 
 För H1-H3 och brödtext används typsnittet Averta, vilket är av typ sans-serif.
 
-## Inet
+### Inet
 
 ![Skärmdump från Inet](%base_url%/image/inet.png&w=600)
 
@@ -133,13 +129,13 @@ Webhallen och Inet använder nyanser av gult för stjärnorna för betyg på pro
 Referenser
 -----------------------
 
-Colorzilla (färgpipettverktyget) https://www.colorzilla.com/firefox/  
-Färghjul från Adobe https://color.adobe.com/sv/create/color-wheel  
-Hidden meaning of colors http://www.webdesignref.com/chapters/13/ch13-17.htm  
-Vad betyder färgerna https://www.arkitektkopia.se/akademi/vad-betyder-fargerna/  
-MaxGaming https://www.maxgaming.se/  
-Webhallen https://www.webhallen.com/se/  
-Inet https://www.inet.se/
+[Colorzilla (färgpipettverktyget)](https://www.colorzilla.com/firefox/)  
+[Färghjul från Adobe](https://color.adobe.com/sv/create/color-wheel)  
+[Hidden meaning of colors](http://www.webdesignref.com/chapters/13/ch13-17.htm)  
+[Vad betyder färgerna](https://www.arkitektkopia.se/akademi/vad-betyder-fargerna/)  
+[MaxGaming](https://www.maxgaming.se/)  
+[Webhallen](https://www.webhallen.com/se/)  
+[Inet](https://www.inet.se/)  
 
 Övrigt
 -----------------------

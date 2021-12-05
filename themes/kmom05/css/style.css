@@ -6664,14 +6664,14 @@ body {
 p,
 td,
 th,
-li,
 dd {
   text-align: justify;
   overflow-wrap: break-word;
   word-wrap: break-word;
 }
 
-.main p {
+.main p,
+.main ol {
   padding-bottom: 1em;
 }
 
