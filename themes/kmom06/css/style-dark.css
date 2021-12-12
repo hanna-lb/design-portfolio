@@ -6504,9 +6504,12 @@ pre code {
 }
 .nav a {
   color: #e7c3d1;
+  border-top: 2px solid #fbd0e0;
+  text-decoration: none;
 }
 .nav a:hover {
   color: #f0abc5;
+  border-top: 2px solid #f0abc5;
 }
 
 .nav-toggle {
@@ -6612,6 +6615,10 @@ body {
 .title * {
   color: #fbd0e0;
 }
+.title a:hover *,
+.title a:hover {
+  color: #f0abc5;
+}
 .title p {
   font-style: italic;
 }
@@ -6690,6 +6697,36 @@ img {
   filter: saturate(105%) contrast(110%) brightness(0.9);
 }
 
+.left img {
+  float: left;
+  margin-right: 1em;
+  margin-top: 1em;
+}
+
+.right img {
+  float: right;
+  margin-left: 1em;
+  margin-top: 1em;
+}
+
+.center img {
+  margin: auto;
+  display: block;
+}
+
+.center em {
+  text-align: center;
+  display: block;
+}
+
+@media (max-width: 767px) {
+  .right img,
+.left img {
+    float: none;
+    margin: auto;
+    display: block;
+  }
+}
 .tech-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -6708,7 +6745,7 @@ img {
   color: #fbd0e0;
   text-decoration: none;
 }
-.tech-container a:hover h1,
+.tech-container a:hover h2,
 .tech-container a:hover i {
   color: #f0abc5;
 }
@@ -6725,9 +6762,10 @@ img {
   border-top: 3px solid #f0abc5;
   background-color: #221e20;
 }
-.tech-container .tech h1 {
+.tech-container .tech h2 {
   align-self: center;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .tech-article {
@@ -6762,7 +6800,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .tech-container h1,
+  .tech-container h2,
 .tech-container p {
     grid-column: span 2;
   }
@@ -6772,7 +6810,7 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 
-  .tech-container h1,
+  .tech-container h2,
 .tech-container p {
     grid-column: span 1;
   }

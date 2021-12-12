@@ -19,7 +19,7 @@
         text-decoration: none;
     }
 
-    a:hover h1,
+    a:hover h2,
     a:hover i {
         color: $accent-color;
     }
@@ -39,9 +39,10 @@
         background-color: $background-alternative-color;
     }
 
-    .tech h1 {
+    .tech h2 {
         align-self: center;
         margin-top: 0;
+        margin-bottom: 0;
     }
 }
 
@@ -82,7 +83,7 @@
         grid-template-columns: repeat(2, 1fr);
     }
     
-    .tech-container h1,
+    .tech-container h2,
     .tech-container p {
         grid-column: span 2;
     }
@@ -93,7 +94,7 @@
         grid-template-columns: repeat(1, 1fr);
     }
     
-    .tech-container h1,
+    .tech-container h2,
     .tech-container p {
         grid-column: span 1;
     }

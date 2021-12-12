@@ -35,9 +35,7 @@ Kalkylark med mätvärden för MaxGaming, Webhallen och Inet:
 
 ### MaxGaming
 
-![Skärmdump från MaxGaming](%base_url%/image/analysis/2_maxgaming.jpg&w=600)
-
-_Skärmdump från MaxGaming.se tagen 2021-12-05_
+<span class="center">![Skärmdump från MaxGaming.se tagen 2021-12-05](%base_url%/image/analysis/2_maxgaming.jpg&w=700)</span>
 
 På startsidan för MaxGaming möts man högst upp med en menyrad med olika produktkategorier. Nedanför är stora bilder på olika kampanjer och längre ned listas fler produkter med tillhörande bilder.
 
@@ -47,9 +45,7 @@ Kollar vi på datan som hämtats genom den simulerade miljön är det mer proble
 
 ### Webhallen
 
-![Skärmdump från Webhallen](%base_url%/image/analysis/2_webhallen.jpg&w=600)
-
-_Skärmdump från Webhallen.com tagen 2021-12-05_
+<span class="center">![Skärmdump från Webhallen.com tagen 2021-12-05](%base_url%/image/analysis/2_webhallen.jpg&w=700)</span>
 
 Går man i på Webhallens startsida ser man en menyrad som är animerad med fallande snöflingor. Det är på denna menyrad man finner alla produktkategorier. Sedan finns bilder i bakgrunden samt i huvudinnehållet för kampanjer. Längre ned är olika produkter listade tillhörande bilder. När jag scrollar ned på sidan laddas bilderna i samband med att de visas på skärmen.
 
@@ -57,9 +53,7 @@ Utifrån användardata ser vi att Webhallen inte har godkänt i de viktiga webbv
 
 ### Inet
 
-![Skärmdump från Inet](%base_url%/image/analysis/2_inet.jpg&w=600)
-
-_Skärmdump från Inet.se tagen 2021-12-05_
+<span class="center">![Skärmdump från Inet.se tagen 2021-12-05](%base_url%/image/analysis/2_inet.jpg&w=700)</span>
 
 På startsidan för Inet möts man av en större bild där man kan stega mellan olika bilder som presenterar olika kampanjer. Nedanför börjar produkter med tillhörande bilder listas och det finns även en menylista till vänster.
 
@@ -67,7 +61,7 @@ Enligt data hämtat från faktiska användare på PageSpeed ser vi att Inet har 
 
 Kikar man i de mätvärden jag antecknade från devtools ser man att inet har lång laddningstid, men jag upplever inte samma laddningstid i verkligheten när jag besöker sidan. Något jag la märke till är att den laddade klart under två sekunder, men sedan efter mer än 10 sekunder laddas en till javascript-resurs in vilket tycks vara för en livechat eller liknande. Bild nedan visar på tidslinje över laddade resurser där vi ser att det inte är något som händer på väldigt länge mellan sista och näst sista laddningen.
 
-![Laddtid för inet](%base_url%/image/analysis/2b_inet.jpg&w=815)
+<span class="center">![Laddtid för inet](%base_url%/image/analysis/2b_inet.jpg&w=815)</span>
 
 Analys
 -----------------------

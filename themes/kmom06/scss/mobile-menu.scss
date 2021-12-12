@@ -17,10 +17,13 @@
     
     a {
         color: $font-color;
+        border-top: 2px solid $font-alternative-color;
+        text-decoration: none;
     }
 
     a:hover {
         color: $accent-color;
+        border-top: 2px solid $accent-color;
     }
 }
 

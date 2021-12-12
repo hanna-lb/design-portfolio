@@ -26,11 +26,10 @@ Resultat
 
 ### MaxGaming
 
-![Skärmdump från MaxGaming](%base_url%/image/analysis/1_maxgaming.jpg&w=600)
-
+![Skärmdump från MaxGaming](%base_url%/image/analysis/1_maxgaming.jpg&w=600)  
 _Skärmdump från MaxGaming.se tagen 2021-11-26_
 
-__Färg__
+#### Färg
 
 Från första sidan av MaxGaming kan vi hämta dessa färger från deras layout: 
 
@@ -51,17 +50,16 @@ Från första sidan av MaxGaming kan vi hämta dessa färger från deras layout:
 
 Inkluderar man detaljfärgerna åt det gröna, gula och röd-orangea hållet är färgschemat närmast ett komplementfärgspar. Hemsidan i sin helhet har huvudsakligen färger baserade på färgerna i logotypen, där det då närmast blir en monokromt färgschema med flera nyanser av blått och kampanjer/detaljer/produktmärkningar har övriga färger.
 
-__Typsnitt__
+#### Typografi
 
 För H1-H3 använder de en custom font som typsnitt, som är av typ sans-serif. Samma gäller för brödtexten. Deras fallback-font är Arial.
 
 ### Webhallen
 
-![Skärmdump från Webhallen](%base_url%/image/analysis/1_webhallen.jpg&w=600)
-
+![Skärmdump från Webhallen](%base_url%/image/analysis/1_webhallen.jpg&w=600)  
 _Skärmdump från Webhallen.com tagen 2021-11-26_
 
-__Färg__
+#### Färg
 
 Från första sidan av Webhallen kan vi hämta dessa färger från deras layout: 
 
@@ -83,17 +81,16 @@ Från första sidan av Webhallen kan vi hämta dessa färger från deras layout:
 
 I och med att användningen av gul och röd är så pass litet på Webhallen och hur dominerande blått är skulle deras färgschema närmast kunna jämföras med ett monokromt. Röda färgen används vid kampanjpriser och den gula färgen är hämtad från stjärnorna som representerar en produkts betygssättning. Vi ignorerar även bilden som utgör bakgrunden och kampanjbilden.
 
-__Typsnitt__
+#### Typografi
 
 För H1-H3 och brödtext används typsnittet Averta, vilket är av typ sans-serif.
 
 ### Inet
 
-![Skärmdump från Inet](%base_url%/image/analysis/1_inet.jpg&w=600)
-
+![Skärmdump från Inet](%base_url%/image/analysis/1_inet.jpg&w=600)  
 _Skärmdump från Inet.se tagen 2021-11-26_
 
-__Färg__
+#### Färg
 
 Från första sidan av inet kan vi hämta dessa färger från deras layout: 
 
@@ -108,7 +105,7 @@ Från första sidan av inet kan vi hämta dessa färger från deras layout:
 
 Webbsidans innehåller generellt inte särskilt mycket färg, där närmast färgschema kan likställas med kvadrat av primärfärgerna. Logotypen är röd och vissa detaljer (kampanjpriser och dylikt) och är också röda, där det är samma röda färg. Vissa små ikoner och knappar har den gröna, den blå och den gula färgen.
 
-__Typografi__
+#### Typografi
 
 För H1-H3 och brödtext används typsnittet Open Sans, vilket är av typ sans-serif.
 

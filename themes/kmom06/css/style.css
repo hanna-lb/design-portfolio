@@ -6504,9 +6504,12 @@ pre code {
 }
 .nav a {
   color: #444;
+  border-top: 2px solid #222;
+  text-decoration: none;
 }
 .nav a:hover {
   color: #f0abc5;
+  border-top: 2px solid #f0abc5;
 }
 
 .nav-toggle {
@@ -6612,6 +6615,10 @@ body {
 .title * {
   color: #222;
 }
+.title a:hover *,
+.title a:hover {
+  color: #f0abc5;
+}
 .title p {
   font-style: italic;
 }
@@ -6690,6 +6697,36 @@ img {
   max-width: 100%;
 }
 
+.left img {
+  float: left;
+  margin-right: 1em;
+  margin-top: 1em;
+}
+
+.right img {
+  float: right;
+  margin-left: 1em;
+  margin-top: 1em;
+}
+
+.center img {
+  margin: auto;
+  display: block;
+}
+
+.center em {
+  text-align: center;
+  display: block;
+}
+
+@media (max-width: 767px) {
+  .right img,
+.left img {
+    float: none;
+    margin: auto;
+    display: block;
+  }
+}
 .tech-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -6707,7 +6744,7 @@ img {
 .tech-container a {
   text-decoration: none;
 }
-.tech-container a:hover h1,
+.tech-container a:hover h2,
 .tech-container a:hover i {
   color: #f5f5f5;
 }
@@ -6724,9 +6761,10 @@ img {
   border-top: 3px solid #222;
   background-color: #f0abc5;
 }
-.tech-container .tech h1 {
+.tech-container .tech h2 {
   align-self: center;
   margin-top: 0;
+  margin-bottom: 0;
 }
 
 .tech-article {
@@ -6761,7 +6799,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  .tech-container h1,
+  .tech-container h2,
 .tech-container p {
     grid-column: span 2;
   }
@@ -6771,7 +6809,7 @@ img {
     grid-template-columns: repeat(1, 1fr);
   }
 
-  .tech-container h1,
+  .tech-container h2,
 .tech-container p {
     grid-column: span 1;
   }
