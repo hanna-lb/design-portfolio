@@ -1,0 +1,176 @@
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables';
+
+@import url('https://fonts.googleapis.com/css2?family=Dosis&family=Open+Sans&display=swap');
+
+@import 'blockquotes';
+@import 'code';
+@import 'mobile-menu';
+
+
+* {
+    color: $font-color;
+    box-sizing: border-box;
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+ol,
+ul {
+    padding-left: 1.5em;
+}
+
+.hidden {
+    display: none !important;
+}
+
+html {
+    height: 100%;
+    overflow-y: scroll;
+}
+
+body {
+    background-color: $background-color;
+    height: 100%;
+    display: flex;
+    max-width: 1200px;
+    flex-direction: column;
+    margin: auto;
+}
+
+/* Placement */
+
+.main {
+    flex: 1 0 auto;
+    padding: 1em 2em 0;
+}
+
+.header,
+.footer {
+    flex: 0 0 auto;
+}
+
+@media (max-width: 767px) {
+    .main {
+        padding: 0 1em;
+    }
+}
+
+/* Header */
+
+.header,
+.site-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Title */
+
+.title,
+.logo {
+    padding: 3em 3em 2em 0;
+}
+
+.title {
+    h1 {
+        padding-top: 1em;
+    }
+
+    * {
+        color: $font-alternative-color;
+    }
+
+    p {
+        font-style: italic;
+    }
+}
+  
+@media (max-width: 767px) {
+    .title,
+    .logo {
+        padding: 1em 1em 1em 0;
+    }
+
+    .title {
+        min-width: 50%;
+    }
+
+    .logo {
+        max-width: 30%;
+    }
+
+    .title h1 {
+        padding-top: 0.5em;
+    }
+}
+
+/* Footer */
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 3px solid $font-alternative-color;
+    background-color: $accent-color;
+    padding: 1em;
+
+    a {
+        color: $font-color;
+        text-decoration: none;
+    }
+
+    a:hover,
+    a:hover i {
+        color: $background-alternative-color;
+    }
+
+    .social {
+        font-size: 2rem;
+    }
+}
+
+/* Typografy */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.5rem;
+    color: $font-color;
+}
+
+p,
+td,
+th,
+dd {
+    text-align: justify;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.main p,
+.main ol {
+    padding-bottom: 1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 0.6em;
+    font-weight: bold;
+    font-family: 'Dosis', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+@import 'technologies';
+@import 'gallery';
