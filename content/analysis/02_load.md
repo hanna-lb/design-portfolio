@@ -31,11 +31,11 @@ Resultat
 -----------------------
 
 Kalkylark med mätvärden för MaxGaming, Webhallen och Inet:
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyeiA0YOhyW2MIC2p_hR0xRzUqkg5AI20dapUAiTDbCFcMknj26EfTeSOQJcUSFmJVRHqXVhse1lgT/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height: 600px; padding-bottom: 1em;"></iframe>
+<iframe title="Kalkylark med mätvärden" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSyeiA0YOhyW2MIC2p_hR0xRzUqkg5AI20dapUAiTDbCFcMknj26EfTeSOQJcUSFmJVRHqXVhse1lgT/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" style="width: 100%; height: 600px; padding-bottom: 1em;"></iframe>
 
 ### MaxGaming
 
-![Skärmdump från MaxGaming](%base_url%/image/2_maxgaming.png&w=600)
+![Skärmdump från MaxGaming](%base_url%/image/analysis/2_maxgaming.jpg&w=600)
 
 _Skärmdump från MaxGaming.se tagen 2021-12-05_
 
@@ -47,7 +47,7 @@ Kollar vi på datan som hämtats genom den simulerade miljön är det mer proble
 
 ### Webhallen
 
-![Skärmdump från Webhallen](%base_url%/image/2_webhallen.png&w=600)
+![Skärmdump från Webhallen](%base_url%/image/analysis/2_webhallen.jpg&w=600)
 
 _Skärmdump från Webhallen.com tagen 2021-12-05_
 
@@ -57,7 +57,7 @@ Utifrån användardata ser vi att Webhallen inte har godkänt i de viktiga webbv
 
 ### Inet
 
-![Skärmdump från Inet](%base_url%/image/2_inet.png&w=600)
+![Skärmdump från Inet](%base_url%/image/analysis/2_inet.jpg&w=600)
 
 _Skärmdump från Inet.se tagen 2021-12-05_
 
@@ -67,7 +67,7 @@ Enligt data hämtat från faktiska användare på PageSpeed ser vi att Inet har 
 
 Kikar man i de mätvärden jag antecknade från devtools ser man att inet har lång laddningstid, men jag upplever inte samma laddningstid i verkligheten när jag besöker sidan. Något jag la märke till är att den laddade klart under två sekunder, men sedan efter mer än 10 sekunder laddas en till javascript-resurs in vilket tycks vara för en livechat eller liknande. Bild nedan visar på tidslinje över laddade resurser där vi ser att det inte är något som händer på väldigt länge mellan sista och näst sista laddningen.
 
-![Laddtid för inet](%base_url%/image/2b_inet.png&w=815)
+![Laddtid för inet](%base_url%/image/analysis/2b_inet.jpg&w=815)
 
 Analys
 -----------------------

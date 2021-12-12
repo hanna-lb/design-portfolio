@@ -26,7 +26,7 @@ Resultat
 
 ### MaxGaming
 
-![Skärmdump från MaxGaming](%base_url%/image/MaxGaming.png&w=600)
+![Skärmdump från MaxGaming](%base_url%/image/analysis/1_maxgaming.jpg&w=600)
 
 _Skärmdump från MaxGaming.se tagen 2021-11-26_
 
@@ -57,7 +57,7 @@ För H1-H3 använder de en custom font som typsnitt, som är av typ sans-serif. 
 
 ### Webhallen
 
-![Skärmdump från Webhallen](%base_url%/image/webhallen.png&w=600)
+![Skärmdump från Webhallen](%base_url%/image/analysis/1_webhallen.jpg&w=600)
 
 _Skärmdump från Webhallen.com tagen 2021-11-26_
 
@@ -89,7 +89,7 @@ För H1-H3 och brödtext används typsnittet Averta, vilket är av typ sans-seri
 
 ### Inet
 
-![Skärmdump från Inet](%base_url%/image/inet.png&w=600)
+![Skärmdump från Inet](%base_url%/image/analysis/1_inet.jpg&w=600)
 
 _Skärmdump från Inet.se tagen 2021-11-26_
 

@@ -34,47 +34,47 @@ Kika om designprinciperna som används är lika/olika för framsidan och undersi
 
 ### My Kitchen Stories
 
-![Skärmdump från My Kitchen Stories](%base_url%/image/3_mykitchenstories.png&w=600)  
+![Skärmdump från My Kitchen Stories](%base_url%/image/analysis/3_mykitchenstories.jpg&w=600)  
 _Skärmdump från mykitchenstories.se tagen 2021-12-10_
 
 Målet och syftet med denna webbsida är för Camilla Hadid att dela recept och marknadsföra sina receptböcker samt även växa sina andra sociala medier då dessa länkas till i menyn. Designen känns lekfull med sitt fina färgtema med rosa, blått och gula accentfärger, likväl bild på sig själv i headern där hon ler stort. Nedanför följer en menyrad med navigationslänkar. På startsidan finner vi ett recept med ett litet mer fokus och smakprov texten och nedanför den flertalet bilder på rad som representerar olika recept. Det förekommer en del rundade detaljer som del av layouten vilket ger ett mjukare intryck, tillsammans med sans serif som också känns lite mjukare. Som besökare får man verkligen känslan av att det ska vara roligt att baka hennes recept och det känns inbjudadnde, vilket även är vad jag tror hon vill åstadkomma. Designen och formatet på hur saker och ting presenteras gör att åtminstone jag inte tycker recepten känns skräckinjagande svåra samtidigt som bilderna på alla bakverk fortfarande är väldigt snygga och tilltalande.
 
 Vi hittar designprinciper såsom linjer, vilket vi bland annat ser som en del av menyraden och linjer som separerar innehåll, exempelvis "Populära recept" på skärmdumpen ovan. Bilder och text presenteras i rutnät (grid) när man bläddrar bland kategorier och recept. Det är tydlig skillnad i storlek och tjocklek på typografi när det handlar om rubriker och brödtext. Även ett genomtänkt färgschema där de olika färgerna gifter sig väl med varandra. Användningen av färg, språk och format på bilder är repetivt och konsekvent.
 
-![Rutnät och användning av rosa färg och mjuka former](%base_url%/image/3_mykitchenstories_grid.png&w=600)  
+![Rutnät och användning av rosa färg och mjuka former](%base_url%/image/analysis/3_mykitchenstories_grid.jpg&w=600)  
 _Exempel på ett till rutnät, användning av samma rosa accentfärg och rundade former_
 
 ### Brinken Bakar
 
-![Skärmdump från Brinken Bakar](%base_url%/image/3_brinkenbakar.png&w=600)  
+![Skärmdump från Brinken Bakar](%base_url%/image/analysis/3_brinkenbakar.jpg&w=600)  
 _Skärmdump från brinkenbakar.se tagen 2021-12-10_
 
 Målet och syftet med webbsidan är stärka Brinkens varumärke och sälja henners kurser i att spritsa och göra moussetårtor. Detta genom att få besökarna att bli inspirerade och vilja baka hennes recept samt vilja lära sig göra lika fina bakverk som henne, där recepten är inspirerade av proffsbakning men är skriven med hemmabakaren som målgrupp. Gräver man lite mer under ytan hittar man också referenser och länkar till hennes receptböcker, vilket då också är något hon vill sälja. Högst upp på sidan har vi en stilren logotyp, följt av en enkel menyrad och sedan följer resten av sidans innehåll. Designen är stilren med få färger och många bilder som jag upplever som professionella. Designen känns väldigt sammanhängande enligt mig i och med att dels bakverken och hemsidan ser professionella och sofistikerade ut och ändå presenteras på ett sätt som inte upplevs som allt för komplicerat, vilket jag också tror är den känsla som designen är tänkt att uppnå.
 
 När det kommer till designprinciper kan vi finna linjer som ett återkommande element i hur hemsidan är designad. Dels ligger bilder på rad, och det förekommer prydliga linjer som separerar innehållskategorier. Även grid är en designprincip som appliceras, där bilderna är vad som leder en till många recept och de ligger i ett typ av rutnät, likväl inne på individuella recept finner vi innehållet i kolumner, en bredare som presenterar receptet i fråga och sedan en smalare på sidan där det innehåller annan information, där det återigen separeras med linjer. På denna smalare kolumn finner man bland annat "knappar" till andra kategorier, som även finnes på fliken för recept, och dessa knappar är foton med en ram och sedan text, så även inramning och linjer används för detta. Fotona på bakverken i sig utgör också en kontrast mot den annars avskalade designen med vita bakgrunden och svarta texten. Bilderna har djup, bra skärpa, mättnad och färger vilket drar uppmärksamheten till dem. Stilen är repetiv i sin utformning.
 
-![Receptsida med linjer och inramade knappar](%base_url%/image/3_brinkenbakar_receptsida.png&w=600)  
+![Receptsida med linjer och inramade knappar](%base_url%/image/analysis/3_brinkenbakar_receptsida.jpg&w=600)  
 _Receptsida där vi ser kolumner och i höger kolumn nyttjas linjer och det förekommer inramade knappar._
 
-![Exempel på linje som separerar](%base_url%/image/3_brinkenbakar_linje.png&w=400)  
+![Exempel på linje som separerar](%base_url%/image/analysis/3_brinkenbakar_linje.jpg&w=400)  
 _Ett exempel på linje som separerar innehåll på startsidan._
 
 ### Lindas Bakskola
 
-![Skärmdump från Lindas Bakskola](%base_url%/image/3_lindasbakskola.png&w=600)  
+![Skärmdump från Lindas Bakskola](%base_url%/image/analysis/3_lindasbakskola.jpg&w=600)  
 _Skärmdump från lindasbakskola.se tagen 2021-12-10_
 
 Målet och syftet med Lindas bakskola är att marknadsföra hennes bakböcker, webb-tv och andra sociala medier genom att dela med sig av sina recept på hennes hemsida. Headern högst upp på sidan har en bild på Linda och följer ett rosa färgschema samt har även bilder på hennes receptböcker, och sedan även navigering för sidan och länkar till sociala medier representerade av ikoner. På startsidan under headern finns en rad med bilder med tillhörande receptkategori, och dessa rutor hoppar ett steg i sidled som en _carousel_ med jämnt tidsintervall och således kan alla kategorier visas upp oavsett bredd på fönstret. Nedanför visas hennes senaste uppladdade recept i sin helhet, där vi nedanför den finner en överblick över senaste uppladdade recepten i en överblick med tre recept per rad. Mitt intryck av sidan är att det känns lite som en hemmabagares blogg, vilket jag framförallt tror är något som styrs av fotona på de olika recepten. Fotona varierar i kvalitet enligt mig där vissa bilder känns mindre professionella. Fotona är även en stol del av sidans innehåll, så det är nog inte så konstigt att det påverkar intrycket i så pass stor utsträckning. Jag tror hon vill förmedla ett professionellare intryck än vad hon lyckas med fullt ut, då det även hade gynnat hennes mål att sälja böcker ytterligare i och med att det är lätt att döma recept efter utseende. 
 
-![Bilderna håller inte konsekvent nivå](%base_url%/image/3_lindasbakskola_detaljmiss.png&w=400)  
+![Bilderna håller inte konsekvent nivå](%base_url%/image/analysis/3_lindasbakskola_detaljmiss.jpg&w=400)  
 _Exempel på hur bilderna inte håller konsekvent nivå enligt mig. Dessutom ryms inte hela ordet "pepparkakssockerkaka" på en rad, vilket känns som en miss._
 
 Designprinciperna som appliceras är dels ett rosa färgschema som används konsekvent/repetivt på sidans olika nivåer, dels recepten listas med bilder och text i rutnät (grid), dels animation på kategoriraden, dels tydlig typografi där rubriker är fetare och större text som dessutom är i versaler och därmed drar till sig ens uppmärksamhet. 
 
-![Samma rosa färger som i headern på första bilden](%base_url%/image/3_lindasbakskola_rosa.png&w=400)  
+![Samma rosa färger som i headern på första bilden](%base_url%/image/analysis/3_lindasbakskola_rosa.jpg&w=400)  
 _Samma rosa färger som i headern på första bilden används här på flertalet ställen_
 
-![Samma rosa färger som i headern på första bilden](%base_url%/image/3_lindasbakskola_kategorier.png&w=600)  
+![Samma rosa färger som i headern på första bilden](%base_url%/image/analysis/3_lindasbakskola_kategorier.jpg&w=600)  
 _Tydligt rutnät på kategorisidan, återigen med rosa färgen_
 
 ### Mitt eget portfolio
@@ -83,8 +83,8 @@ Mitt portfolios utseende är ganska simpelt och stilrent, där det förekommer m
 
 Målet och syftet med hemsidan är inte helt uppenbar först på startsidan av portfoliot. Sista meningen på startsidan belyser att det är en sida för en webbdesignkurs, likväl att det står i headern att det är ett portfolio och design, men inte mer än så. Däremot får man känslan av att skaparen, jag, gillar lite lekfull design med feminina färger, katterna i logotypen och mjukheten som sans serif inger, medan det ändå bibehåller en viss stilrenhet då det inte är överdrivet många element som drar fokus till sig då jag valt att hålla headern mer avskalad istället för att ge den en egen bakgrundsfärg och dylikt. Det är istället mer fokus som lagts på detaljnivå, att hovrande över klickbara element ska highlightas med annan färg vare sig det gäller text, ikoner eller bilder. Designspråket är konsekvent genom de olika nivåerna och användbarheten god oavsett bredd på enheten eller webbläsaren som används för att besöka hemsidan.
 
-![Footer i light mode](%base_url%/image/portfolio_footer_lm.png&w=930)  
-![Footer i dark mode](%base_url%/image/portfolio_footer_dm.png&w=930)  
+![Footer i light mode](%base_url%/image/analysis/3_portfolio_footer_lm.jpg&w=930)  
+![Footer i dark mode](%base_url%/image/analysis/3_portfolio_footer_dm.jpg&w=930)  
 _Footern är ett tydligt exempel på hur färgval hanteras i light mode respektive dark mode, likväl användning av linjer för att understryka vissa element_
 
 De designprinciper som kännetäcknar webbplatsen är därmed huvudsakligen linjer, repetition, färgval och typografi samt grid i viss utsträckning.

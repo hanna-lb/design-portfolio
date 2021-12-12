@@ -1,5 +1,6 @@
 ---
 Logo: image/logo.png
+LogoAVIF: image/logo.avif
 Tagline: Mitt portfolio.
 Social:
     - title: Länk till sidans github repo.

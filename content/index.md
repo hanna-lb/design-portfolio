@@ -14,4 +14,4 @@ De senaste två åren har jag bott i Malmö och ger jag mig in på studier igen 
 
 Denna sida är min sida för kursen PA1436 H21 lp2 Teknisk webbdesign och användbarhet 7,5 hp. Innan denna kurs har jag läst Webbteknologier 7,5 hp, vilket utöver tidigare studier, hobbies och livserfarenheter också utgör en del av mina förkunskaper.
 
-![Bild på mig och min katt Ashen](image/me.png)
+![Bild på mig och min katt Ashen](image/me.jpg)
