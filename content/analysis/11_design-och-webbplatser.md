@@ -75,6 +75,11 @@ Känslan jag försöker förmedla med färgvalen i första designen är lekfull 
 
 Känslan som förmedlas i den andra designen är lite lugnare och mer sofistikerad. Bilden i sig är mörkare och har färre färger i sig, där primära färgen är nästan en senapsgul färg. Temat blir motsvarande en mer "dark mode", och för att andra färgglada bilder på sidan inte ska utgöra för stark kontrast appliceras även ett sepia-filter via CSS med 30% styrka. Detta för att ta av eggen lite och göra färgsammansättningen lite mer sammanhängande. Serif-fonten ger ett aningen mer sofistikerat intryck.
 
+Referenser
+-----------------------
+
+[Mer-sidan för Art Ist](https://www.student.bth.se/~halm21/dbwebb-kurser/design/me/kmom10/more)
+
 Övrigt
 -----------------------
 
