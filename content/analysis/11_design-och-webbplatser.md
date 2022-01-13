@@ -17,7 +17,7 @@ Urvalet är min egen hemsida där jag skapat två olika teman för samma fiktiva
 Metod
 -----------------------
 
-För att hämta ut färgerna från webbplatserna genom att använda färgpipeppverktyget ColorZilla i FireFox. Endast förstasidan analyseras för att begränsa omfattningen av inhämtning av färger och analysen. Färgerna presenteras i resultatdelen av rapporten och analyseras med hjälp av ett färghjul från Adobe för att idenfifiera vilken typ av färgschema som använts. Vi exkluderar att ta med vita/gråa/svarta färger för bakgrunder och text. Typsnitt presenteras också i resultatet.
+Färgerna är hämtade från css-koden för hemsidan. Det är huvudsakligen dessa i relation mot bakgrundsbilden som tas hänsyn till i analysen. Färgerna presenteras i resultatdelen av rapporten och analyseras med hjälp av ett färghjul från Adobe för att idenfifiera vilken typ av färgschema som använts. Vi exkluderar att ta med vita/gråa/svarta färger för bakgrunder och text. Typsnitt presenteras också i resultatet.
 
 I analys-delen analyseras webbsidorna och även det intryck som jag anser att de inger baserat på deras färgval.
 
@@ -78,7 +78,8 @@ Känslan som förmedlas i den andra designen är lite lugnare och mer sofistiker
 Referenser
 -----------------------
 
-[Mer-sidan för Art Ist](https://www.student.bth.se/~halm21/dbwebb-kurser/design/me/kmom10/more)
+[Mer-sidan för Art Ist](https://www.student.bth.se/~halm21/dbwebb-kurser/design/me/kmom10/more)  
+[Färghjul från Adobe](https://color.adobe.com/sv/create/color-wheel)
 
 Övrigt
 -----------------------
