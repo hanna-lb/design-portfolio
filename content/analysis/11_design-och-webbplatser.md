@@ -26,12 +26,9 @@ Resultat
 
 ### Huvudtemat
 
-![Skärmdump från MaxGaming](%base_url%/image/analysis/1_maxgaming.jpg&w=600)  
-_Skärmdump från MaxGaming.se tagen 2021-11-26_
-
 #### Färg
 
-Från första sidan av MaxGaming kan vi hämta dessa färger från deras layout: 
+Från huvudtemat kan vi hämta dessa färger: 
 
 <table style="border-spacing: 4px; border-collapse: separate; padding-bottom: 0.75em">
     <tr>
@@ -50,12 +47,9 @@ För H1-H6 och navigationslänkar används typsnittet "Oswald", som är av typ s
 
 ### Alternativa temat
 
-![Skärmdump från Webhallen](%base_url%/image/analysis/1_webhallen.jpg&w=600)  
-_Skärmdump från Webhallen.com tagen 2021-11-26_
-
 #### Färg
 
-Från första sidan av Webhallen kan vi hämta dessa färger från deras layout: 
+Från det alternativa temat kan vi hämta dessa färger: 
 
 <table style="border-spacing: 4px; border-collapse: separate; padding-bottom: 0.75em">
     <tr>
